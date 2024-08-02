@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lynuxEmeu
 - 👀 I’m interested in codin and football
-- 🌱 I’m currently learning html + css 
-- 💞️ I’m looking to collaborate on N-amazon
+- 🌱 I’m currently learning html + css + js
+- 💞️ I’m looking to collaborate on Nothing
 - 📫 message on discord ( Lynux_emeu )
 
 <!---
